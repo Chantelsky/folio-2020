@@ -4,7 +4,7 @@ import style from "./footer.module.scss"
 const Footer = () => {
     return(
         <div className={style.footer}>
-            <a href="mailto:chantel.sky@outlook.com?subject=Enquiry"><p>Lets work together?</p></a>
+            <a href="mailto:laver.chantelsky@gmail.com?subject=Enquiry"><p>Lets work together?</p></a>
         </div>
     )
 }
